@@ -1,60 +1,68 @@
 <p align="center">
-
+  <a href="SEU_LINK_PARA_O_EBOOK">
+    <img src="URL_DA_CAPA_DO_EBOOK.jpg" alt="Capa do Ebook" width="300">
+  </a>
 </p>
-
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
+  [![Acesse o Ebook](https://img.shields.io/badge/Acessar_Ebook-CLIQUE_AQUI-blueviolet)](SEU_LINK_PARA_O_EBOOK)
 </p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-> ℹ️ **NOTE:** Este é o repositório desenvolvido a partir do repostitório do [Felipe Aguiar](https://github.com/felipeAguiarCode), instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://www.canva.com/design/DAGE7cc7aFc/vXRd8sjUXlnmaO_QsVLA1Q/view?utm_content=DAGE7cc7aFc&utm_campaign=designshare&utm_medium=link&utm_source=editor" title="View PDF now"> 📕Clique aqui para ler</a>
+<p align="center">
+  <a href="SEU_LINK_PARA_O_EBOOK" style="background-color:#4CAF50;color:white;padding:14px 20px;margin:8px 0;border:none;cursor:pointer;text-decoration:none;display:inline-block;">
+    Clique aqui para acessar o Ebook
+  </a>
+</p>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
-- [Leonardo](https://app.leonardo.ai/)
-- [Canva](https://www.canva.com/)
+- [Gemini](https://gemini.google.com/)
+- [Gamma IA](https://gamma.app/pt-br)
 
-## 🧠 Prompts
 
-ChatGPT：
+## 🛠️ Apresentação
 
-| Ação | prompts |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| título | crie um título de um ebook sobre o tema de gestão de documentos digitais, o ebook é do nicho de arquivologia e biblioteconomia, o título deve ser épico e curto, e tenha uma temática do universo de Blade Runner no título, me liste 5 variações de títulos |
-| capítulo 1 | o objetivo desde capítulo é apresentar aos leitores o futuro apocalíptico que é o acúmulo de documentos digitais e impressos nas empresas e em nossas casas, comparando com o "bagulho do universo do livro de blade runner". O bagulho é o acúmulo de objetivos, itens de casa, roupas e tudo que a sociedade deixou para trás ao fugir do planeta que é altamente radiotivo. É preciso alertar o leitor que a desorganização e acúmulo desses documentos é algo que precisa de atenção e que o ebook deseja apresentar essas consequências |
-| capítulo 2 | elabore o capítulo e aborde a importância de sabermos identificar o documento autêntico no meio de cópias sem critérios de assinatura digital ou autenticação. |
-| capítulo 3 | aborde as questões éticas na organização da informação, sobre dados sensíveis, a LGPD e que profissionais treinados bibliotecários e arquivistas, assim como o Deckard de blade runner ,são os protagonistas nessa batalha com o bagulho |
+Este ebook explora o uso da Inteligência Artificial (IA) em suas **versões gratuitas** no campo da Biblioteconomia, oferecendo 10 dicas práticas para bibliotecários que desejam otimizar suas tarefas e aprimorar os serviços oferecidos aos usuários.  As dicas abrangem desde a classificação de obras até a elaboração de estratégias de pesquisa em bases de dados científicas.    
 
-Leonardo.ai：
+**Dicas:**
 
-| Ação | prompt |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | create an image without people with various papers, books and computer screens with a futuristic theme in the universe of blade runner and neon light. The focus is document management |
++ **Classificação:** Utilize a IA para classificar obras segundo a CDU, agilizando o processo de organização do acervo.    
 
-## 🛠️ Instruções de execução
++ **Geração de Cutter-Sanborn:** Use a IA para gerar números Cutter-Sanborn, facilitando a catalogação.    
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como Figma, Power point e inDesign para diagramação.
++ **Geração de Registro Bibliográfico Básico (Pré-MARC):** A IA pode criar registros bibliográficos simplificados no estilo MARC 21.    
+
++ **Normalização de Dados:** Normalize dados bibliográficos conforme as regras da AACR2 e ISBD com o auxílio da IA.    
+
++ **Controle de Autoridades - Autor:** Pesquise e liste formas autorizadas de nomes de autores em diversas fontes como ORCID, Currículo Lattes e Google Scholar.    
+
++ **Conferência e Correção de Tabela com Registros de Livros:** Use a IA para corrigir e normalizar dados em planilhas de registros de livros, seguindo as regras da AACR-2.    
+
++ **Elaboração de String / Query de Pesquisa Estratégica em Bases de Dados Científicas:** A IA pode ajudar a criar strings de pesquisa eficazes em português e inglês, utilizando operadores booleanos.    
+
++ **Utilizando Dimensions Research GPT no ChatGPT para Levantamento Bibliográfico em Linguagem Natural:** Utilize a IA para levantar artigos relevantes e gerar referências em ABNT.    
+
++ **Revisão de Referências:** Corrija e formate referências bibliográficas conforme a norma ABNT 6023/2018 com o auxílio da IA.    
+
++ **Conversão de Referências:** Converta referências da norma ABNT para Vancouver utilizando a IA.    
+
+Bônus:
+
++ **Descritores DeCS/MeSH:** A IA sugere descritores DeCS/MeSH para indexação bibliográfica a partir de resumos.    
+
+Conclusão:
+
+Este ebook demonstra como a IA pode ser uma ferramenta poderosa para bibliotecários, otimizando processos e melhorando a qualidade dos serviços oferecidos.  Ao adotar essas dicas, os bibliotecários podem se tornar mais eficientes e relevantes na era digital.
 
 ## 👨‍💻 Expert
 
 <p>
- Dayanne Araújo<br>
-
-  GitHub |
-  LinkedIn
- |
-  Instagram
- |</p>
+  Dayanne Araújo<br>
+  
+  <a href="https://github.com/dayaaraujo/">GitHub</a> |
+  <a href="https://www.linkedin.com/in/dayanne-ara%C3%BAjo-msc-a187ba6b/">LinkedIn</a> |
+  <a href="https://www.instagram.com/daya_aaraujo/">Instagram</a>
+  
+</p>
 <br/><br/>
 <p>
 

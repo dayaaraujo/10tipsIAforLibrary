@@ -13,7 +13,7 @@
 
 - [ChatGPT](https://chat.openai.com/)
 - [Gemini](https://gemini.google.com/)
-- [Gamma IA](https://gamma.app/pt-br)
+- [Canva](https://canva.com/)
 
 
 ## 🛠️ Apresentação

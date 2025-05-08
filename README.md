@@ -1,13 +1,10 @@
 <p align="center">
   <a href="SEU_LINK_PARA_O_EBOOK">
-    <img src="URL_DA_CAPA_DO_EBOOK.jpg" alt="Capa do Ebook" width="300">
+    <img src="https://github.com/dayaaraujo/10tipsIAforLibrary/blob/main/Cover.png" alt="Capa do Ebook" width="300">
   </a>
 </p>
 <p align="center">
-  [![Acesse o Ebook](https://img.shields.io/badge/Acessar_Ebook-CLIQUE_AQUI-blueviolet)](SEU_LINK_PARA_O_EBOOK)
-</p>
-<p align="center">
-  <a href="SEU_LINK_PARA_O_EBOOK" style="background-color:#4CAF50;color:white;padding:14px 20px;margin:8px 0;border:none;cursor:pointer;text-decoration:none;display:inline-block;">
+  <a href="https://www.canva.com/design/DAGmz1cX2c8/8XH1MXYTgT6I03P00dFswQ/view?utm_content=DAGmz1cX2c8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hecccbe4eba" style="background-color:#4CAF50;color:white;padding:14px 20px;margin:8px 0;border:none;cursor:pointer;text-decoration:none;display:inline-block;">
     Clique aqui para acessar o Ebook
   </a>
 </p>
